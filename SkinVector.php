@@ -64,6 +64,7 @@ class SkinVector extends SkinTemplate {
 		$styles = [ 'mediawiki.skinning.interface', 'skins.vector.styles' ];
 		Hooks::run( 'SkinVectorStyleModules', [ $this, &$styles ] );
 		$out->addModuleStyles( $styles );
+		$out->addStyle('//fonts.googleapis.com/css?family=Ubuntu:300,700', 'screen');
 	}
 
 	/**
