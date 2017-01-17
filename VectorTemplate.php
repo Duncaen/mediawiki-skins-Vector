@@ -94,6 +94,18 @@ class VectorTemplate extends BaseTemplate {
 		// Output HTML Page
 		$this->html( 'headelement' );
 		?>
+		<nav id="void-nav" class="noprint">
+			<ul>
+				<li><a href="http://www.voidlinux.eu">Home</a></li>
+				<li><a href="http://www.voidlinux.eu/news/">News</a></li>
+				<li><a href="http://www.voidlinux.eu/download/">Download</a></li>
+				<li><a href="http://www.voidlinux.eu/packages/">Packages</a></li>
+				<li><a href="http://www.voidlinux.eu/donations/">Donations</a></li>
+				<li><a href="https://wiki.voidlinux.eu">Wiki</a></li>
+				<li><a href="https://forum.voidlinux.eu">Forum</a></li>
+				<li><a href="https://github.org/voidlinux">GitHub</a></li>
+			</ul>
+		</nav>
 		<div id="mw-page-base" class="noprint"></div>
 		<div id="mw-head-base" class="noprint"></div>
 		<div id="content" class="mw-body" role="main">
