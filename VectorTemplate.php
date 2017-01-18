@@ -103,7 +103,7 @@ class VectorTemplate extends BaseTemplate {
 				<li><a href="http://www.voidlinux.eu/donations/">Donations</a></li>
 				<li><a href="https://wiki.voidlinux.eu">Wiki</a></li>
 				<li><a href="https://forum.voidlinux.eu">Forum</a></li>
-				<li><a href="https://github.org/voidlinux">GitHub</a></li>
+				<li><a href="https://github.com/voidlinux">GitHub</a></li>
 			</ul>
 		</nav>
 		<div id="mw-page-base" class="noprint"></div>
